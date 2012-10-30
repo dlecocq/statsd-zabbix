@@ -1,0 +1,14 @@
+{
+  "name": "statsd-zabbix",
+  "description": "Zabbix backend support for statsd",
+  "author": "Dan Lecocq",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dlecocq/statsd-zabbix.git"
+  },
+  "version": "0.1.0",
+  "engine": {
+    "node": ">=0.6"
+  },
+  "main": "lib/zabbix.js"
+}
